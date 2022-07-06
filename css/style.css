@@ -59,7 +59,7 @@ button:last-child {
 section {
   background-color: #e9ecef;
   padding: 40px;
-  overflow-y: hidden;
+  overflow-y: scroll;
   display: flex;
   flex-direction: column;
   gap: 10px;
